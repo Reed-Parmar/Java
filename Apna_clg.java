@@ -18,10 +18,11 @@ public class Apna_clg{
         //nextFloat
         System.out.println("hello");
         System.out.println("Enter 2 numbers: ");
-        Scanner sc= new Scanner(System.in);
-        int x=sc.nextInt();
-        int y=sc.nextInt();
-        int hii=x+y;
-        System.out.println(hii);
+        try (Scanner sc = new Scanner(System.in)) {
+            int x=sc.nextInt();
+            int y=sc.nextInt();
+            int hii=x+y;
+            System.out.println(hii);
+        }
     }
 }
