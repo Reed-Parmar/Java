@@ -1,3 +1,4 @@
+package Codes;
 public class Loops {
     public static void main(String[] args) {
         if(true){

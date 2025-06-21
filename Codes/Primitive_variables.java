@@ -1,3 +1,4 @@
+package Codes;
 public class Primitive_variables {
     public static void main(String[] args) {
         //all the following are primitive
