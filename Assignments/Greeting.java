@@ -7,9 +7,11 @@ public class Greeting {
         System.out.print("Enter name: ");
         Scanner input= new Scanner(System.in);
         String name = input.next();
-        if(name=='Reedham'){
+        if("Reedham".equals(name)){
             System.out.println("Welcome");
         }
+        else{
+            System.out.println("Invalid name");
+        }
     }
-
 }
