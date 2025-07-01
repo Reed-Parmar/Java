@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Loops_1 {
     public static void main(String[] args) {
+        @SuppressWarnings("unused")
         Scanner input = new Scanner(System.in);
         /*
         syntax of for loop
