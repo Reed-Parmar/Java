@@ -2,7 +2,7 @@ package Codes;
 public class Conditions {
     public static void main(String[] args) {
         /*
-         Syntax of if statemants
+         Syntax of if statements
          if(boolean expression){
          //body
          }
