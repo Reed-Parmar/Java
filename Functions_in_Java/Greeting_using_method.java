@@ -1,4 +1,4 @@
-package Codes;
+package Functions_in_Java;
 
 public class Greeting_using_method {
     public static void main(String[] args) {
